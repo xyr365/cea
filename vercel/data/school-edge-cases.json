@@ -1,8 +1,9 @@
 {
   "福州大学": {
-    "formIdx": 0,
+    "formIdx": 2,
     "checkCaptchaPath": "/checkNeedCaptcha.htl",
-    "getCaptchaPath": "/captcha.html"
+    "getCaptchaPath": "//getCaptcha.htl",
+    "submitCaptchakey": "captcha"
   },
   "福建农林大学": {
     "submitCaptchakey": "captchaResponse",
