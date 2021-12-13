@@ -1,7 +1,7 @@
 {
-  "宁波大学": {
+  "福州大学": {
     "formIdx": 0,
-    "checkCaptchaPath": "/needCaptcha.html",
+    "checkCaptchaPath": "/checkNeedCaptcha.htl",
     "getCaptchaPath": "/captcha.html"
   },
   "福建农林大学": {
@@ -35,7 +35,7 @@
   "NOTCLOUD": {
     "getCaptchaPath": "/getCaptcha.htl",
     "checkCaptchaPath": "/checkNeedCaptcha.htl",
-    "formIdx": 2,
+    "formIdx": 0,
     "pwdEncrypt": true
   }
 }
